@@ -1,1 +1,3 @@
-console.log("Hello World");
+var Pokedex = require('pokedex-promise-v2');
+
+var P = new Pokedex();
